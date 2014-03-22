@@ -1,5 +1,5 @@
 /*
- Copyright (C) 2013 Grzegorz Szczechowiak <gszczechowiak@gmail.com>
+ Copyright (C) 
  Based on sketch of James Coliz, Jr. <maniacbug@ymail.com>
  
  This program is free software; you can redistribute it and/or
